@@ -132,7 +132,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 Or deploy directly from the terminal:
 
 ```bash
-vercel          # preview deployment
+vercel .          # preview deployment
 vercel --prod   # production deployment
 ```
 
